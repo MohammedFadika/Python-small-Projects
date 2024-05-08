@@ -3,6 +3,6 @@ Welcome to the Python Small-Projects repository!  This repository is a collectio
 
 Each project is intentionally kept concise and focused, making them perfect for quick experimentation or as starting points for your own creations. From simple scripts to mini applications, this repository showcases the versatility and power of Python in various domains.
 
-Feel free to browse, fork, and contribute your own small projects. Let's celebrate the beauty of Python through these small but impactful endeavors!
+Feel free to browse, fork, and contribute your own small projects.
 
-Happy coding!
+(.py files in the master branch )
